@@ -34,3 +34,36 @@
 - 턴제 방식<br>
   2명의 플레이어가 서로 한번씩 번갈아가면서 플레이 합니다.
   
+|![image](https://github.com/ChungRaeGyu/Ghost_BoardGame/assets/125470068/e5d1be08-6d90-42c6-8fa4-49f7a1ea2d34)|![image](https://github.com/ChungRaeGyu/Ghost_BoardGame/assets/125470068/e4018c1e-b6b5-4069-8170-1c63051bfed0)|
+|:---:|:---:|
+|대기실|게임룸|
+
+- 대기실<br>
+  현재 대기실에 몇 명의 플레이어가 있는지 확인 할 수 있습니다.<br>
+  빈칸에 방제목을 만들고 방 생성을 클릭하여 게임룸을 생성합니다.<br>
+  빈칸에 방제목을 입력하고 방입장을 하거나 랜덤 방 참가, 방 이름을 클릭하면 방에 입장합니다.
+- 게임룸<br>
+  중간에 원이 있는 곳에 배치를 합니다.<br>
+  8개의 유령을 모두 배치하면 준비를 누릅니다.<br>
+  2명의 플레이어가 모두 준비완료를 누르면 시작버튼이 생깁니다.
+
+|![image](https://github.com/ChungRaeGyu/Ghost_BoardGame/assets/125470068/cfc0531b-0b65-42e1-9c18-fa14e8e991b0)|![image](https://github.com/ChungRaeGyu/Ghost_BoardGame/assets/125470068/a67463f6-f879-47cb-926f-8cdb523895ee)|
+|:---:|:---:|
+|차례넘기기|말 죽이기|
+
+- 차례넘기기<br>
+  차례넘기기를 누르면 상대편의 차례가 됩니다.
+- 말 죽이기<br>
+  상하좌우로 말을 움직여 상대편의 말과 같은 공간에 가면 말을 죽이고 어떤 유령을 죽였지 확인 할 수 있습니다.
+
+|![image](https://github.com/ChungRaeGyu/Ghost_BoardGame/assets/125470068/d27a5ae0-be8e-4ef6-9034-91e15ae8a796)|
+|:---:|
+|게임 종료|
+
+- 게임종료 패널<br>
+  다시하기 버튼을 누르면 방으로 돌아갑니다.
+  나가기 버튼을 누르면 로비로 돌아갑니다.
+  
+
+  
+  
